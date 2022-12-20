@@ -68,8 +68,8 @@ function generateHTML() {
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
   </head>
   <body>
-  <div class="card>
-    <h1>Software Engineering Team</h1>
+  <h1 class="">Software Engineering Team</h1>
+  <div class="card" style="width: 18rem;">
     <ul class="list-group list-group-flush">
   `;
   // Iterate through the employees array and add a list item for each employee
